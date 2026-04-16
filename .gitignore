@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+venv310/
+
+# Model weights
+*.pth
+
+# Large data folders
+data/
+data/videos/
+data/landmarks/
+data/Frames_Sentence_Level/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
